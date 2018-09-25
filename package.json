@@ -1,0 +1,16 @@
+{
+  "name": "ausvalidator",
+  "version": "1.0.1",
+  "description": "A validator groups which could validate phone number(in china), email and so on",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "validator",
+    "phone",
+    "number"
+  ],
+  "author": "Ausar",
+  "license": "MIT"
+}
