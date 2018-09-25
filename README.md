@@ -1,7 +1,7 @@
-#JS-字段校验
-##支持手机号、微信号
-###Usage
-####从npm安装
+# JS-字段校验
+## 支持手机号、微信号
+### Usage
+#### 从npm安装
     npm install --save ausvalidator
 
 #### nodejs使用
